@@ -60,4 +60,5 @@ main {
 
 #mensagem {
     -webkit-text-stroke: 0.2px rgba(255, 255, 255, 0.6);
+    text-align: center;
 }
